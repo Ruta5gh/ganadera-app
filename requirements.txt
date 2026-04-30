@@ -1,6 +1,0 @@
-streamlit
-pandas
-xlsxwriter
-openpyxl
-pillow
-google-generativeai
